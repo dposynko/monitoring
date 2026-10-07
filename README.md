@@ -279,3 +279,4 @@ This project is intended to demonstrate practical application of:
 The monitor currently performs point-in-time host monitoring. It is not intended to replace a production monitoring platform.
 
 Future iterations will introduce continuous monitoring, structured logging, service health checks, and metrics export.
+# monitoring
